@@ -1,6 +1,6 @@
 <h1>🌟 About Me : </h1>
 
-<p>Hi, I'm Mahmoud Saeed – a passionate Data Analyst and BI developer with a strong interest in data visualization, business intelligence, and problem-solving through code. I enjoy turning complex datasets into actionable insights and creating clean, efficient solutions.</p>
+<p>Hi, I'm Ahmed Mahmoud  – a passionate Data Analyst and BI developer with a strong interest in data visualization, business intelligence, and problem-solving through code. I enjoy turning complex datasets into actionable insights and creating clean, efficient solutions.</p>
 
 <ul>
   <li>💻 Skilled in Python, SQL, Power BI, and Excel</li>
